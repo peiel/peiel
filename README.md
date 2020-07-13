@@ -2,7 +2,7 @@
 
 I'm Peiel, Welcome to my github home page.
 
-You can click ![here](https://www.peiel.com) visit my website.
+You can click [here](https://www.peiel.com) visit my blog.
 
 <!--
 **peiel/peiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
